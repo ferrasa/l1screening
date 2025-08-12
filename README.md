@@ -1,7 +1,7 @@
 # L1Screening
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://img.shields.io/badge/DOI-L1Farm--Paper--DOI-blue)](https://doi.org/your-l1farm-paper-doi)
+![Publication](https://img.shields.io/badge/Publication-In%20Preparation-lightgrey)
 
 A bioinformatics pipeline for the comprehensive identification, annotation, and assembly of LINE-1 (L1) retrotransposons in reference and personal genomes.
 
